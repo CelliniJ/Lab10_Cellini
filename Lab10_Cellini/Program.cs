@@ -9,6 +9,7 @@ namespace Lab10_Cellini
         {
             List<Movie> MovieList = new List<Movie>() { };
 
+            //Selection of movies added to list.
             MovieList.Add(new Movie("Star Wars", "Sci-Fi"));
             MovieList.Add(new Movie("Minority Report", "Sci-Fi"));
             MovieList.Add(new Movie("Blade Runner", "Sci-Fi"));
@@ -43,13 +44,16 @@ namespace Lab10_Cellini
                 Console.WriteLine("What category are you interested in? (Sci-fi, Horror, Drama, Animated): ");
                 string categoryinput = Console.ReadLine().ToLower();
 
-                while (categoryinput != "sci-Fi" && categoryinput != "horror" && categoryinput != "drama" && categoryinput != "animated")
+                //Makes sure that the user input is of the 4 choices.
+                while (categoryinput != "sci-fi" && categoryinput != "horror" && categoryinput != "drama" && categoryinput != "animated")
                 {
                     Console.WriteLine("Invalid input. Please try again");
                     categoryinput = Console.ReadLine();
                     continue;
                 }
 
+
+                //Takes the user input, filters the movies by category to display.
                 for (int i = 0; i < MovieList.Count; i++)
                 {
 
@@ -82,15 +86,19 @@ namespace Lab10_Cellini
                         }
                     }
                 }
-                    Console.WriteLine("Continue? (y/n): ");
+                Console.WriteLine("Continue? (y/n): ");
                     repeat = Console.ReadLine().ToLower();
 
+                //Checks to make sure the input is only "y" or "n".
                 while(repeat != "y" && repeat != "n")
                 {
                     Console.WriteLine("Invalid input. Continue? (y/n): ");
-                    repeat = Console.ReadLine();
+                    repeat = Console.ReadLine().ToLower();
                 }
-                Console.WriteLine("See ya!");
+                if (repeat == "n")
+                {
+                    Console.WriteLine("See ya!");
+                }
                 }
             }
         }

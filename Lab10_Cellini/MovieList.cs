@@ -37,6 +37,45 @@ namespace Lab10_Cellini
         }
         #endregion
 
-    
+        #region Methods
+        public static string CategoryFilter(List<Movie> MovieList, string categoryinput)
+        {
+            //Takes the user input, filters the movies by category to display to user.
+            //Couldn't get method to work correctly. Please advise.
+            for (int i = 0; i < MovieList.Count; i++)
+            {
+                if (categoryinput == "sci-fi")
+                {
+                    if (MovieList[i].Category == "Sci-Fi")
+                    {
+                         return MovieList[i].Title;
+                    }
+                }
+                else if (categoryinput == "horror")
+                {
+                    if (MovieList[i].Category == "Horror")
+                    {
+                        return MovieList[i].Title;
+                    }
+                }
+                else if (categoryinput == "drama")
+                {
+                    if (MovieList[i].Category == "Drama")
+                    {
+                        return MovieList[i].Title;
+                    }
+                }
+                else if (categoryinput == "animated")
+                {
+                    if (MovieList[i].Category == "Animated")
+                    {
+                        return MovieList[i].Title;
+                    }
+                }
+            }
+            return "Invalid input. Please try again.";
+        }
+        #endregion
+
     }
 }
