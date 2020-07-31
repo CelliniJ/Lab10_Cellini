@@ -1,0 +1,13 @@
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.csprojAssemblyReference.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.AssemblyInfoInputs.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.AssemblyInfo.cs
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.exe
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.deps.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.runtimeconfig.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.runtimeconfig.dev.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.dll
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\bin\Debug\netcoreapp3.1\Lab10_Cellini.pdb
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.dll
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.pdb
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab10_Cellini\Lab10_Cellini\obj\Debug\netcoreapp3.1\Lab10_Cellini.genruntimeconfig.cache
